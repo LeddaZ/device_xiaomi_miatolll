@@ -1,2 +1,3 @@
 # device_xiaomi_miatoll
-yes
+
+[yes](nad_miatoll.gif)
