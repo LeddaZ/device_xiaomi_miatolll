@@ -1,3 +1,3 @@
 # device_xiaomi_miatoll
 
-[yes](nad_miatoll.gif)
+<img src="nad_miatoll.gif">
